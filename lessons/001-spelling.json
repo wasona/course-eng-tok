@@ -1,0 +1,82 @@
+{
+  "tasks": [
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "toki"
+      }
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "sama"
+      }
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "moku"
+      }
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "mute"
+      }
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "sin"
+      },
+      "taskMistakes": [
+        {
+          "mistake": "seen",
+          "response": "Be careful! Toki Pona vowels are spelled simpler than in English."
+        }
+      ]
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "lukin"
+      },
+      "taskMistakes": [
+        {
+          "mistake": "lookin",
+          "response": "Be careful! Toki Pona vowels are spelled simpler than in English."
+        }
+      ]
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "ante"
+      }
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "anpa"
+      },
+      "taskMistakes": [
+        {
+          "mistake": "ampa",
+          "response": "Be careful! -mp- is spelled -np- in toki pona, just as English has -nk- is pronounced -ngk-."
+        }
+      ]
+    },
+    {
+      "taskType": "listenAndSpell",
+      "taskData": {
+        "audio": "jan"
+      },
+      "taskMistakes": [
+        {
+          "mistake": "yan",
+          "response": "Be careful! The sound English spells as \"y\" is spelled \"j\" in toki pona."
+        }
+      ]
+    }
+  ]
+}
