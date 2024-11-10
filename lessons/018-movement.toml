@@ -1,0 +1,47 @@
+[[task]]
+type = "short input"
+give = "I go to the house."
+accept = ["mi tawa tomo."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I move the house."
+accept = ["mi tawa e tomo."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "A strong animal moves me."
+accept = ["soweli wawa li tawa e mi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Movement is good for people."
+accept = ["tawa li pona tawa jan."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Children move a lot."
+accept = ["jan lili li tawa mute."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Many people move little."
+accept = ["jan mute li tawa lili."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Millie does not move Anna."
+accept = ["jan Mili li tawa ala e jan Ana."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "People do not eat while walking."
+accept = ["jan li moku ala lon tawa."]
+reject = []

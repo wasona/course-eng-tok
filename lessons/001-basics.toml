@@ -1,0 +1,47 @@
+[[task]]
+type = "short input"
+give = "animal"
+accept = ["soweli"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "bird"
+accept = ["waso"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The animal sees the bird."
+accept = ["soweli li lukin e waso."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The bird sees the animal."
+accept = ["waso li lukin e soweli."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "plant"
+accept = ["kasi"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The bird sees plants."
+accept = ["waso li lukin e kasi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The animal eats the plant."
+accept = ["soweli li moku e kasi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The bird eats the plant."
+accept = ["waso li moku e kasi."]
+reject = []

@@ -1,0 +1,59 @@
+[[task]]
+type = "short input"
+give = "give"
+accept = ["pana"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I share knowledge."
+accept = ["mi pana e sona."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I give food to birds."
+accept = ["mi pana e moku tawa waso."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "You give me the bird."
+accept = ["sina pana e waso tawa mi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Your gift is not good."
+accept = ["pana sina li pona ala."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The big bird gives food to the small bird."
+accept = ["waso suli li pana e moku tawa waso lili."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Maya talks to the bird."
+accept = ["jan Maja li toki tawa waso."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Maya goes to the bird."
+accept = ["jan Maja li tawa waso."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The bird flies to the tree."
+accept = ["waso li tawa kasi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The animal goes towards Sunita."
+accept = ["soweli li tawa jan Sunita."]
+reject = []

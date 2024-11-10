@@ -1,0 +1,53 @@
+[[task]]
+type = "short input"
+give = "nan"
+accept = ["In Toki Pona, mi and sina are special. When either of them is the subject of a sentence, they delete the following li."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The bird is strong."
+accept = ["waso li wawa."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I am strong."
+accept = ["mi wawa."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "This animal sees food."
+accept = ["soweli li lukin e moku."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "You see food."
+accept = ["sina lukin e moku."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The bug knows the big plant."
+accept = ["pipi li sona e kasi suli."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I know the big plant."
+accept = ["mi sona e kasi suli."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "The bird knows the plant's size."
+accept = ["waso li sona e suli kasi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "You know the plant's size."
+accept = ["sina sona e suli kasi."]
+reject = []

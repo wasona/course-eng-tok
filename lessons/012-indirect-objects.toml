@@ -1,0 +1,41 @@
+[[task]]
+type = "short input"
+give = "to"
+accept = ["tawa"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "You are important to me."
+accept = ["sina suli tawa mi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I like plants."
+accept = ["kasi li pona tawa mi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Food is important to people."
+accept = ["moku li suli tawa jan."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Nina likes bugs."
+accept = ["pipi li pona tawa jan Nina."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Ali talks to Anna."
+accept = ["jan Ali li toki tawa jan Ana."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Millie talks to Nina about bugs."
+accept = ["jan Mili li toki e pipi tawa jan Nina."]
+reject = []

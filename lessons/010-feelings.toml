@@ -1,0 +1,59 @@
+[[task]]
+type = "short input"
+give = "feel"
+accept = ["pilin"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "You feel strong."
+accept = ["sina pilin wawa."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "good"
+accept = ["pona"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Plants are good."
+accept = ["kasi li pona."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I feel good."
+accept = ["mi pilin pona."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Noah is a good person."
+accept = ["jan Nowa li jan pona."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Food helps animals."
+accept = ["moku li pona e soweli."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Nina improves the picture."
+accept = ["jan Nina li pona e sitelen."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "You make me feel better."
+accept = ["sina pona e pilin mi."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "This bird is not good."
+accept = ["waso ni li pona ala."]
+reject = []

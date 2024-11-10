@@ -1,0 +1,77 @@
+[[task]]
+type = "short input"
+give = "person"
+accept = ["jan"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I am a person."
+accept = ["mi jan."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "This is a person named Noah."
+accept = ["ni li jan Nowa."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "This is a person named Emma."
+accept = ["ni li jan Ema."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Ali sees the bird."
+accept = ["jan Ali li lukin e waso."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Sunita does not eat animals."
+accept = ["jan Sunita li moku ala e soweli."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "they, she, he, it"
+accept = ["ona"]
+reject = []
+
+[[task]]
+type = "short input"
+give = "I know Anna."
+accept = ["mi sona e jan Ana."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "She is a smart person."
+accept = ["ona li jan sona."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Kenta sees my animal."
+accept = ["jan Kenta li lukin e soweli sina."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "You see his animal."
+accept = ["sina lukin e soweli ona."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "Iman is a strong person."
+accept = ["jan Iman li jan wawa."]
+reject = []
+
+[[task]]
+type = "short input"
+give = "She does not know me."
+accept = ["ona li sona ala e mi."]
+reject = []
