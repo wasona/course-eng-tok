@@ -1,64 +1,66 @@
-[[task]]
+title = "And places to be"
+
+[[tasks]]
 type = "short input"
 give = "I go to Italy."
 accept = ["mi tawa ma Italija."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "in, at"
 accept = ["lon"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I am in Italy."
 accept = ["mi lon ma Italija."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I put the plant onto the ground."
 accept = ["mi pana e kasi tawa ma."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The plant is on the ground."
 accept = ["kasi li lon ma."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bird is on the tree."
 accept = ["waso li lon kasi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bird eats on the tree."
 accept = ["waso li moku lon kasi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bird eats a bug on the tree."
 accept = ["waso li moku e pipi lon kasi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Nina is in Russia."
 accept = ["jan Nina li lon ma Lusi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Nina goes to France."
 accept = ["jan Nina li tawa ma Kanse."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "People speak French in France."
 accept = ["jan li toki Kanse lon ma Kanse."]

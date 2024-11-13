@@ -1,70 +1,72 @@
-[[task]]
+title = "Recreation"
+
+[[tasks]]
 type = "short input"
 give = "paper"
 accept = ["lipu"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The smart person reads the book."
 accept = ["jan sona li lukin e lipu."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The document shares knowledge."
 accept = ["lipu li pana e sona."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Which book talks about botany?"
 accept = ["lipu seme li toki e sona kasi?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The tree leaves move."
 accept = ["lipu kasi li tawa."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Wikipedia knows a lot."
 accept = ["lipu Wikipesija li sona mute."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Many people talk on Reddit."
 accept = ["jan mute li toki lon lipu Wesi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "fun"
 accept = ["musi"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The book entertains me."
 accept = ["lipu li musi e mi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Milana feels amused."
 accept = ["jan Milana li pilin musi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Small animals play."
 accept = ["soweli lili li musi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Small birds are amusing to me."
 accept = ["waso lili li musi tawa mi."]

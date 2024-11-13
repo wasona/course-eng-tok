@@ -1,52 +1,54 @@
-[[task]]
+title = "Activities"
+
+[[tasks]]
 type = "short input"
 give = "draw"
 accept = ["sitelen"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Millie draws a small bug."
 accept = ["jan Mili li sitelen e pipi lili."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Their picture is large."
 accept = ["sitelen ona li suli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "talk"
 accept = ["toki"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Nina talks about the picture."
 accept = ["jan Nina li toki e sitelen."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "They talk about the knowledge of bugs."
 accept = ["ona li toki e sona pipi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Millie talks and draws."
 accept = ["jan Mili li toki li sitelen."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Nina sees the picture and talks."
 accept = ["jan Nina li lukin e sitelen li toki."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Their knowledge is big and powerful."
 accept = ["sona ona li suli li wawa."]

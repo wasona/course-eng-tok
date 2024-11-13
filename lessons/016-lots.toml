@@ -1,58 +1,60 @@
-[[task]]
+title = "Lots"
+
+[[tasks]]
 type = "short input"
 give = "many"
 accept = ["mute"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "You know many birds."
 accept = ["sina sona e waso mute."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This animal is very big."
 accept = ["soweli ni li suli mute."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Many birds eat bugs."
 accept = ["waso mute li moku e pipi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Millie draws a lot."
 accept = ["jan Mili li sitelen mute."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Nina talks a lot about the picture."
 accept = ["jan Nina li toki mute e sitelen."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Many bugs are small."
 accept = ["pipi mute li lili."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The amount of bugs is large."
 accept = ["mute pipi li suli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Many people speak English."
 accept = ["jan mute li toki Inli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "People speak English in many countries."
 accept = ["jan li toki Inli lon ma mute."]

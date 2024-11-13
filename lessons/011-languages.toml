@@ -1,46 +1,48 @@
-[[task]]
+title = "Languages"
+
+[[tasks]]
 type = "short input"
 give = "People speak."
 accept = ["jan li toki."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I speak well."
 accept = ["mi toki pona."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Animals do not speak."
 accept = ["soweli li toki ala."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Noah speaks English."
 accept = ["jan Nowa li toki Inli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Ali speaks Arabic."
 accept = ["jan Ali li toki Alapi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Kenta speaks Japanese."
 accept = ["jan Kenta li toki Nijon."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Sunita speaks Hindi."
 accept = ["jan Sunita li toki Insi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Emma speaks English and Japanese."
 accept = ["jan Ema li toki Inli li toki Nijon."]

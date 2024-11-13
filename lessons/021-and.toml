@@ -1,70 +1,72 @@
-[[task]]
+title = "And"
+
+[[tasks]]
 type = "short input"
 give = "The bird is fun and small."
 accept = ["waso li musi li lili."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Kenta draws and talks."
 accept = ["jan Kenta li sitelen li toki."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "You see people and animals."
 accept = ["sina lukin e jan e soweli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Iman draws land and houses."
 accept = ["jan Iman li sitelen e ma e tomo."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Sunita talks to you and me."
 accept = ["jan Sunita li toki tawa sina tawa mi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Noah goes to you and me."
 accept = ["jan Nowa li tawa sina li tawa mi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "There are many people in England and in America."
 accept = ["jan mute li lon ma Mewika li lon ma Inli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Many people speak English in England and in America."
 accept = ["jan mute li toki Inli lon ma Mewika lon ma Inli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "and (for subjects)"
 accept = ["en"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bird and the animal eat."
 accept = ["waso en soweli li moku."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Anna and Ellen talk."
 accept = ["jan Ana en jan Elen li toki."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Bugs and birds eat and sleep."
 accept = ["pipi en waso li moku li lape."]

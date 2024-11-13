@@ -1,76 +1,78 @@
-[[task]]
+title = "What?"
+
+[[tasks]]
 type = "short input"
 give = "what"
 accept = ["seme"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "What sees the tree?"
 accept = ["seme li lukin e kasi?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "What does the bird see?"
 accept = ["waso li lukin e seme?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "What does the bird do to the tree?"
 accept = ["waso li seme e kasi?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "what is this?"
 accept = ["ni li seme?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Who sees the tree?"
 accept = ["jan seme li sitelen e pipi?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Which birds do not eat bugs?"
 accept = ["waso seme li moku ala e pipi?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Which animal moves a lot?"
 accept = ["soweli seme li tawa mute?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Which country is Sunita going to?"
 accept = ["jan Sunita li tawa ma seme?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Which country is Ali in?"
 accept = ["jan Ali li lon ma seme?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Where is Noah?"
 accept = ["jan Nowa li lon seme?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "What is Nina doing?"
 accept = ["jan Nina li seme?"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "How are you feeling?"
 accept = ["sina pilin seme?"]

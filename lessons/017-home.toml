@@ -1,70 +1,72 @@
-[[task]]
+title = "Home"
+
+[[tasks]]
 type = "short input"
 give = "house"
 accept = ["tomo"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I am at home."
 accept = ["mi lon tomo mi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The doghouse is not big."
 accept = ["tomo soweli li suli ala."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Children are at school."
 accept = ["jan lili li lon tomo sona."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Ellen eats at home."
 accept = ["jan Elen li moku lon tomo."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Kenta likes her home."
 accept = ["tomo ona li pona tawa jan Kenta."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "surface"
 accept = ["supa"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I sit in a chair."
 accept = ["mi lon supa."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "You put the picture on the shelf."
 accept = ["sina pana e sitelen tawa supa."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "People eat at the table."
 accept = ["jan li moku lon supa moku."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "sleep"
 accept = ["lape"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I sleep in a bed."
 accept = ["mi lape lon supa lape."]

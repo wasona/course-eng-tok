@@ -1,46 +1,48 @@
-[[task]]
+title = "Not"
+
+[[tasks]]
 type = "short input"
 give = "not"
 accept = ["ala"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "not big"
 accept = ["suli ala"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This is not a bird."
 accept = ["ni li waso ala."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I am not strong."
 accept = ["mi wawa ala."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Animals are not bugs."
 accept = ["soweli li pipi ala."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I do not know."
 accept = ["mi sona ala."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "No bug is strong."
 accept = ["pipi ala li wawa."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I do not see the small plant."
 accept = ["mi lukin ala e kasi lili."]

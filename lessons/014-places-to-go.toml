@@ -1,58 +1,60 @@
-[[task]]
+title = "Places to go"
+
+[[tasks]]
 type = "short input"
 give = "land"
 accept = ["ma"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The animal sees land."
 accept = ["soweli li lukin e ma."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "I put the bug on the ground."
 accept = ["mi pana e pipi tawa ma."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bug goes to the ground."
 accept = ["pipi li tawa ma."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "England"
 accept = ["ma Inli"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Sunita draws England."
 accept = ["jan Sunita li sitelen e ma Inli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Ellen goes to England."
 accept = ["jan Elen li tawa ma Inli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Ellen likes England."
 accept = ["ma Inli li pona tawa jan Elen."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Japan"
 accept = ["ma Nijon"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Emma goes to Japan."
 accept = ["jan Ema li tawa ma Nijon."]

@@ -1,52 +1,54 @@
-[[task]]
+title = "Describe!"
+
+[[tasks]]
 type = "short input"
 give = "big"
 accept = ["suli"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "small"
 accept = ["lili"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "big animal"
 accept = ["soweli suli"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "small bird"
 accept = ["waso lili"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The big animal sees the bird."
 accept = ["soweli suli li lukin e waso."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bird sees a small animal."
 accept = ["waso li lukin e soweli lili."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "bug"
 accept = ["pipi"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bird eats the bug."
 accept = ["waso li moku e pipi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The small bug sees the big animal."
 accept = ["pipi lili li lukin e soweli suli."]

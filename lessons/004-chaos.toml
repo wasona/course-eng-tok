@@ -1,46 +1,42 @@
-[[task]]
-type = "short input"
-give = "nan"
-accept = ["In English, there are nouns, verbs, adjectives. You can make nouns from verbs, verbs from adjectives, and so on, by changing the word: large -> to enlarge. Sometimes they are different words entirely: see -> eye.\nIn Toki Pona, any noun can be a verb, any verb can be an adjective, and so on. Pay attention to word order!"]
-reject = []
+title = "Chaos!"
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "These are eyes."
 accept = ["ni li lukin."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Bird eyes are strong."
 accept = ["lukin waso li wawa."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Food is important."
 accept = ["moku li suli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The animal's strength is great."
 accept = ["wawa soweli li suli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Food strengthens the small animal."
 accept = ["moku li wawa e soweli lili."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The food enlarges the bug."
 accept = ["moku li suli e pipi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The powerful animal turns a plant into a bird."
 accept = ["soweli wawa li waso e kasi."]

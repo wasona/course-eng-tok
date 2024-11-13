@@ -1,58 +1,60 @@
-[[task]]
+title = "Yours and mine"
+
+[[tasks]]
 type = "short input"
 give = "i"
 accept = ["mi"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "you"
 accept = ["sina"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "my animal"
 accept = ["soweli mi"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "your plant"
 accept = ["kasi sina"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "My animal eats your plant."
 accept = ["soweli mi li moku e kasi sina."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Your bird sees me."
 accept = ["waso sina li lukin e mi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This bug is my bug."
 accept = ["pipi ni li pipi mi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "knowledge"
 accept = ["sona"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "Your knowledge is vast."
 accept = ["sona sina li suli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "My animal knows your bird."
 accept = ["soweli mi li sona e waso sina."]

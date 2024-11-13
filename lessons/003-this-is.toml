@@ -1,46 +1,48 @@
-[[task]]
+title = "This is..."
+
+[[tasks]]
 type = "short input"
 give = "this"
 accept = ["ni"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This is a plant."
 accept = ["ni li kasi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This plant is big."
 accept = ["kasi ni li suli."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This bird eats the bug."
 accept = ["waso ni li moku e pipi."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This bug is small."
 accept = ["pipi ni li lili."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "strong"
 accept = ["wawa"]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "This animal is strong."
 accept = ["soweli ni li wawa."]
 reject = []
 
-[[task]]
+[[tasks]]
 type = "short input"
 give = "The bird looks at the strong animal."
 accept = ["waso li lukin e soweli wawa."]
